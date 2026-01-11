@@ -1,0 +1,3 @@
+"""
+Spam Detector Django App
+"""
